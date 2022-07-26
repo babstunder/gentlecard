@@ -4,6 +4,7 @@
 }
 body{
 	background: hsl(217, 54%, 11%);
+	font-family: 'Outfit', sans-serif;
 }
 
 .container{
@@ -63,6 +64,12 @@ body{
 	margin-top: 20px;
 
 }
+.attribution{
+	color: white;
+}
+.link{
+	color: gold;
+}
 h1{
 	color: hsl(0, 0%, 100%);
 	font-size: 20px;
@@ -73,7 +80,7 @@ h1:hover, active{
 }
 p{
 	color:hsl(215, 51%, 70%);
-	font-size: 18px;
+	font-size: 15px;
 }
 .card{
 	border: 1px solid hsl(216, 50%, 16%);
