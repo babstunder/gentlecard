@@ -24,7 +24,7 @@ body{
 }
 .eth-card{
 	width: 270px;
-	height: 250px;
+	height: 270px;
 	background-size: cover;
 	background-image: url(images/image-equilibrium.jpg);
 	border-radius: 5px;
@@ -85,9 +85,10 @@ p{
 .card{
 	border: 1px solid hsl(216, 50%, 16%);
 	background:hsl(216, 50%, 16%) ;
-	height: 500px;
+	height: 520px;
 	width: 320px;
-	margin-top: 40px;
+	margin-top: 12em;
+
 	border-radius: 10px;
 	padding-left: 22px;
 	padding-right: 20px;
@@ -127,7 +128,7 @@ p{
 }
 .last{
 	display: flex;
-	margin-top: 20px;
+	margin-top: 30px;
 }
 .last-image{
 	height: 22px;
